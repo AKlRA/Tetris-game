@@ -16,7 +16,7 @@ This project is a classic implementation of the Tetris game, developed entirely 
 
    ```sh
     javac -d bin src/tetris/Tetris.java
-
+ Make sure you have installed JJDK Development Kit 
  ## Usage
 
  1.Run the application:
